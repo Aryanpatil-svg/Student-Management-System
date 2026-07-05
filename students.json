@@ -1,0 +1,47 @@
+[
+    {
+        "student_id": "2024FHAI017",
+        "name": "Aryan patil",
+        "grade": "A+"
+    },
+    {
+        "student_id": "2024FHAI164",
+        "name": "sarthak patil",
+        "grade": "O+"
+    },
+    {
+        "student_id": "2024FHAI088",
+        "name": "sujit shinde",
+        "grade": "D+"
+    },
+    {
+        "student_id": "2024FHAI122",
+        "name": "dhiraj naikwade",
+        "grade": "H+"
+    },
+    {
+        "student_id": "2024FHAI034",
+        "name": "salim dhone ",
+        "grade": "M+"
+    },
+    {
+        "student_id": "2024FHAI037",
+        "name": "arjun zore",
+        "grade": "N+"
+    },
+    {
+        "student_id": "2024FHAI567",
+        "name": "murnal patil",
+        "grade": "W"
+    },
+    {
+        "student_id": "2024FHAI087",
+        "name": "omkar palve",
+        "grade": "Q+"
+    },
+    {
+        "student_id": "2024FHAI321",
+        "name": "daksh patil",
+        "grade": "T"
+    }
+]
