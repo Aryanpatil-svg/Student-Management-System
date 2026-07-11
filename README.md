@@ -21,7 +21,8 @@ A modern **Student Management System** built using **Python**, **Tkinter**, **Ob
 
 ## 🖼️ Application Preview
 
-![Student Management System](images/dashboard.png)
+![Uploading student_dashboard.png…]()
+
 
 ---
 
