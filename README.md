@@ -1,34 +1,12 @@
-# Student Management System
+# Colorful OOP Student Management System Dashboard
 
-## Description
-A Python-based Command Line Interface (CLI) application to manage student records using Object-Oriented Programming (OOP) and JSON file storage.
+A visual interactive CRUD application utilizing pure Python Tkinter.
 
-## Features
-- Add Student
-- View All Students
-- Search Student
-- Update Student
-- Delete Student
-- Total Student Count
-- Unique Student ID Validation
-- Data Persistence using JSON
-
-## Technologies Used
-- Python 3
-- JSON
-- OOP (Classes & Objects)
-
-## Project Structure
-Student_Management_System/
-│── main.py
-│── manager.py
-│── student.py
-│── students.json
-└── README.md
-
-## How to Run
-
-python main.py
-
-## Author
-Aryan Patil
+### Features
+- ➕ **Add New Student** with safe validation checks.
+- 📋 **View All Students** in a clean dark spreadsheet table view.
+- 🔍 **Search Student** instantly using live alphanumeric filters.
+- ✏️ **Update Student** quickly by clicking list records directly.
+- ❌ **Delete Records** securely with structural protection prompts.
+- 📊 **Display Total Count** dynamically updated inside the dashboard head.
+- 💾 **Automatic Storage** saving directly to `students.json` seamlessly.

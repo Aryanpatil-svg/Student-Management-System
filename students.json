@@ -1,47 +1,52 @@
-[
-    {
-        "student_id": "2024FHAI017",
+{
+    "2024FHAI017": {
+        "id": "2024FHAI017",
         "name": "Aryan patil",
         "grade": "A+"
     },
-    {
-        "student_id": "2024FHAI164",
-        "name": "sarthak patil",
+    "2024FHAI123": {
+        "id": "2024FHAI123",
+        "name": "kiran patil",
+        "grade": "A"
+    },
+    "2024FHAI165": {
+        "id": "2024FHAI165",
+        "name": "Hitesh mohite",
+        "grade": "B+"
+    },
+    "2024FHAI044": {
+        "id": "2024FHAI044",
+        "name": "Kalpesh bendre",
+        "grade": "B+"
+    },
+    "2024FHAI198": {
+        "id": "2024FHAI198",
+        "name": "sanika patil",
+        "grade": "B"
+    },
+    "2024FHAI210": {
+        "id": "2024FHAI210",
+        "name": "nihal bane",
+        "grade": "C+"
+    },
+    "2024FHAI189": {
+        "id": "2024FHAI189",
+        "name": "utkarsh shinde",
         "grade": "O+"
     },
-    {
-        "student_id": "2024FHAI088",
-        "name": "sujit shinde",
-        "grade": "D+"
+    "2024FHAI067": {
+        "id": "2024FHAI067",
+        "name": "rohit sharma",
+        "grade": "C"
     },
-    {
-        "student_id": "2024FHAI122",
-        "name": "dhiraj naikwade",
-        "grade": "H+"
+    "2024FHAI124": {
+        "id": "2024FHAI124",
+        "name": "manthan patil",
+        "grade": "B+"
     },
-    {
-        "student_id": "2024FHAI034",
-        "name": "salim dhone ",
-        "grade": "M+"
-    },
-    {
-        "student_id": "2024FHAI037",
-        "name": "arjun zore",
-        "grade": "N+"
-    },
-    {
-        "student_id": "2024FHAI567",
-        "name": "murnal patil",
-        "grade": "W"
-    },
-    {
-        "student_id": "2024FHAI087",
-        "name": "omkar palve",
-        "grade": "Q+"
-    },
-    {
-        "student_id": "2024FHAI321",
-        "name": "daksh patil",
-        "grade": "T"
+    "2024FHAI321": {
+        "id": "2024FHAI321",
+        "name": "Diksha nalawade",
+        "grade": "A"
     }
-]
+}
